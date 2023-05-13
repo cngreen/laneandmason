@@ -1,6 +1,6 @@
 .congrats-text {
     font-family: 'Dancing Script', cursive;
-	font-size: 8em;
+	font-size: 13vmin;
 	color: rgba(255,255,255,1);
 	font-weight: 700;
 	letter-spacing: 1px;
@@ -12,12 +12,12 @@
 
 .congrats-text-small {
     font-family: 'Open Sans', sans-serif;
-	font-size:20px;
+	font-size: 3vmin;
 	color: rgba(255,255,255,1);
 	font-weight: 700;
 	letter-spacing: 1px;
 	position: absolute;
-    top: 85%;
+    top: 87%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -35,14 +35,14 @@
 
 .container .btn {
   position: absolute;
-  top: 92%;
+  top: 95%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #ed7eb5;
   color: white;
-  font-size: 16px;
-  padding: 12px 24px;
+  font-size: 2vmin;
+  padding: 1vmin 1vmin;
   border: none;
   cursor: pointer;
   border-radius: 5px;
